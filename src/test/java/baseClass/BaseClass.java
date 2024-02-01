@@ -88,12 +88,14 @@ public class BaseClass {
 
 		// launching browser based on condition
 
-		if (br.equalsIgnoreCase("chrome")) {
+		String browserName = System.getenv("browser") != null ? System.getenv("browser") : br;
+		
+		if (browserName.equalsIgnoreCase("chrome")) {
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
 		}
 
-		if (br.equalsIgnoreCase("edge")) {
+		if (browserName.equalsIgnoreCase("edge")) {
 			WebDriverManager.edgedriver().setup();
 			driver = new EdgeDriver();
 		}
