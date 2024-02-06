@@ -108,3 +108,194 @@
 10:31:03.525 [main] INFO  testCases.TC_002_LoginTest - ===== Verified logged out message =====
 10:31:03.525 [main] INFO  testCases.TC_002_LoginTest - ==== You are successfully Logged-out ====
 10:31:03.525 [main] INFO  testCases.TC_002_LoginTest - ******* Finished TC_002_AccountLoginTest  *******
+23:57:00.556 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Starting TC_001_AccountRegistrationTest *****
+23:57:00.861 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked my account link =====
+23:57:01.586 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked register account link =====
+23:57:01.594 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Entering verify details...!! ====
+23:57:02.708 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked privacy policy =====
+23:57:03.696 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked continue button =====
+23:57:03.802 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Starting verifying confirmation message =====
+23:57:03.803 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Test passed..!! ====
+23:57:03.808 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Finished verified confirmation message =====
+23:57:03.808 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Ending TC_001_AccountRegistrationTest *****
+23:57:10.180 [main] INFO  testCases.TC_002_LoginTest - ******* Starting TC_002_AccountLoginTest  *******
+23:57:10.415 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked my account link =====
+23:57:10.946 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login account =====
+23:57:10.948 [main] INFO  testCases.TC_002_LoginTest - ===== Entering login details =====
+23:57:12.443 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login button =====
+23:57:12.525 [main] INFO  testCases.TC_002_LoginTest - ===== Starting veryfying login message =====
+23:57:12.525 [main] INFO  testCases.TC_002_LoginTest - ==== Congratulations..!! successfully Logged-in ====
+23:57:12.526 [main] INFO  testCases.TC_002_LoginTest - ===== Ended veryfied login message =====
+23:57:13.153 [main] INFO  testCases.TC_002_LoginTest - ===== Logged out from the application =====
+23:57:13.223 [main] INFO  testCases.TC_002_LoginTest - ===== Verified logged out message =====
+23:57:13.224 [main] INFO  testCases.TC_002_LoginTest - ==== You are successfully Logged-out ====
+23:57:13.225 [main] INFO  testCases.TC_002_LoginTest - ******* Finished TC_002_AccountLoginTest  *******
+23:57:21.831 [main] INFO  testCases.TC_004_SearchProductTest - *****  Starting TC_004_SearchProductTest *****
+23:57:22.863 [main] INFO  testCases.TC_004_SearchProductTest - *****  Finished TC_004_SearchProductTest *****
+00:02:12.523 [main] INFO  testCases.TC_004_SearchProductTest - *****  Starting TC_004_SearchProductTest *****
+00:02:13.584 [main] INFO  testCases.TC_004_SearchProductTest - verified product
+00:02:13.585 [main] INFO  testCases.TC_004_SearchProductTest - *****  Finished TC_004_SearchProductTest *****
+00:39:03.473 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Starting TC_001_AccountRegistrationTest *****
+00:39:03.743 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked my account link =====
+00:39:04.844 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked register account link =====
+00:39:04.849 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Entering verify details...!! ====
+00:39:05.793 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked privacy policy =====
+00:39:06.675 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked continue button =====
+00:39:06.754 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Starting verifying confirmation message =====
+00:39:06.754 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Test passed..!! ====
+00:39:06.759 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Finished verified confirmation message =====
+00:39:06.759 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Ending TC_001_AccountRegistrationTest *****
+00:39:15.185 [main] INFO  testCases.TC_002_LoginTest - ******* Starting TC_002_AccountLoginTest  *******
+00:39:15.361 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked my account link =====
+00:39:16.475 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login account =====
+00:39:16.476 [main] INFO  testCases.TC_002_LoginTest - ===== Entering login details =====
+00:39:19.622 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login button =====
+00:39:19.676 [main] INFO  testCases.TC_002_LoginTest - ===== Starting veryfying login message =====
+00:39:19.677 [main] INFO  testCases.TC_002_LoginTest - ==== Congratulations..!! successfully Logged-in ====
+00:39:19.677 [main] INFO  testCases.TC_002_LoginTest - ===== Ended veryfied login message =====
+00:39:21.038 [main] INFO  testCases.TC_002_LoginTest - ===== Logged out from the application =====
+00:39:21.099 [main] INFO  testCases.TC_002_LoginTest - ===== Verified logged out message =====
+00:39:21.099 [main] INFO  testCases.TC_002_LoginTest - ==== You are successfully Logged-out ====
+00:39:21.100 [main] INFO  testCases.TC_002_LoginTest - ******* Finished TC_002_AccountLoginTest  *******
+00:39:26.970 [main] INFO  testCases.TC_004_SearchProductTest - *****  Starting TC_004_SearchProductTest *****
+00:39:28.258 [main] INFO  testCases.TC_004_SearchProductTest - *****  Finished TC_004_SearchProductTest *****
+00:39:33.710 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+00:44:38.265 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Starting TC_001_AccountRegistrationTest *****
+00:44:38.548 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked my account link =====
+00:44:39.329 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked register account link =====
+00:44:39.335 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Entering verify details...!! ====
+00:44:40.397 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked privacy policy =====
+00:44:41.392 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked continue button =====
+00:44:41.477 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Starting verifying confirmation message =====
+00:44:41.478 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Test passed..!! ====
+00:44:41.482 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Finished verified confirmation message =====
+00:44:41.482 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Ending TC_001_AccountRegistrationTest *****
+00:44:47.612 [main] INFO  testCases.TC_002_LoginTest - ******* Starting TC_002_AccountLoginTest  *******
+00:44:47.789 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked my account link =====
+00:44:48.301 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login account =====
+00:44:48.302 [main] INFO  testCases.TC_002_LoginTest - ===== Entering login details =====
+00:44:49.374 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login button =====
+00:44:49.434 [main] INFO  testCases.TC_002_LoginTest - ===== Starting veryfying login message =====
+00:44:49.435 [main] INFO  testCases.TC_002_LoginTest - ==== Congratulations..!! successfully Logged-in ====
+00:44:49.435 [main] INFO  testCases.TC_002_LoginTest - ===== Ended veryfied login message =====
+00:44:50.238 [main] INFO  testCases.TC_002_LoginTest - ===== Logged out from the application =====
+00:44:50.303 [main] INFO  testCases.TC_002_LoginTest - ===== Verified logged out message =====
+00:44:50.303 [main] INFO  testCases.TC_002_LoginTest - ==== You are successfully Logged-out ====
+00:44:50.303 [main] INFO  testCases.TC_002_LoginTest - ******* Finished TC_002_AccountLoginTest  *******
+00:44:53.866 [main] INFO  testCases.TC_004_SearchProductTest - *****  Starting TC_004_SearchProductTest *****
+00:44:54.627 [main] INFO  testCases.TC_004_SearchProductTest - *****  Finished TC_004_SearchProductTest *****
+00:44:59.249 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+00:52:26.437 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Starting TC_001_AccountRegistrationTest *****
+00:52:26.741 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked my account link =====
+00:52:27.538 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked register account link =====
+00:52:27.544 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Entering verify details...!! ====
+00:52:28.572 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked privacy policy =====
+00:52:29.606 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked continue button =====
+00:52:29.672 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Starting verifying confirmation message =====
+00:52:29.672 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Test passed..!! ====
+00:52:29.677 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Finished verified confirmation message =====
+00:52:29.678 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Ending TC_001_AccountRegistrationTest *****
+00:52:33.679 [main] INFO  testCases.TC_002_LoginTest - ******* Starting TC_002_AccountLoginTest  *******
+00:52:33.875 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked my account link =====
+00:52:34.542 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login account =====
+00:52:34.546 [main] INFO  testCases.TC_002_LoginTest - ===== Entering login details =====
+00:52:35.666 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login button =====
+00:52:35.761 [main] INFO  testCases.TC_002_LoginTest - ===== Starting veryfying login message =====
+00:52:35.761 [main] INFO  testCases.TC_002_LoginTest - ==== Congratulations..!! successfully Logged-in ====
+00:52:35.761 [main] INFO  testCases.TC_002_LoginTest - ===== Ended veryfied login message =====
+00:52:36.522 [main] INFO  testCases.TC_002_LoginTest - ===== Logged out from the application =====
+00:52:36.586 [main] INFO  testCases.TC_002_LoginTest - ===== Verified logged out message =====
+00:52:36.586 [main] INFO  testCases.TC_002_LoginTest - ==== You are successfully Logged-out ====
+00:52:36.586 [main] INFO  testCases.TC_002_LoginTest - ******* Finished TC_002_AccountLoginTest  *******
+00:52:40.898 [main] INFO  testCases.TC_004_SearchProductTest - *****  Starting TC_004_SearchProductTest *****
+00:52:41.654 [main] INFO  testCases.TC_004_SearchProductTest - *****  Finished TC_004_SearchProductTest *****
+00:52:45.456 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+00:54:21.729 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Starting TC_001_AccountRegistrationTest *****
+00:54:22.061 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked my account link =====
+00:54:23.378 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked register account link =====
+00:54:23.382 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Entering verify details...!! ====
+00:54:24.332 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked privacy policy =====
+00:54:26.008 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked continue button =====
+00:54:26.091 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Starting verifying confirmation message =====
+00:54:26.092 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Test passed..!! ====
+00:54:26.097 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Finished verified confirmation message =====
+00:54:26.097 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Ending TC_001_AccountRegistrationTest *****
+00:54:30.217 [main] INFO  testCases.TC_002_LoginTest - ******* Starting TC_002_AccountLoginTest  *******
+00:54:30.387 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked my account link =====
+00:54:30.801 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login account =====
+00:54:30.802 [main] INFO  testCases.TC_002_LoginTest - ===== Entering login details =====
+00:54:32.034 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login button =====
+00:54:32.105 [main] INFO  testCases.TC_002_LoginTest - ===== Starting veryfying login message =====
+00:54:32.105 [main] INFO  testCases.TC_002_LoginTest - ==== Congratulations..!! successfully Logged-in ====
+00:54:32.106 [main] INFO  testCases.TC_002_LoginTest - ===== Ended veryfied login message =====
+00:54:32.887 [main] INFO  testCases.TC_002_LoginTest - ===== Logged out from the application =====
+00:54:32.954 [main] INFO  testCases.TC_002_LoginTest - ===== Verified logged out message =====
+00:54:32.955 [main] INFO  testCases.TC_002_LoginTest - ==== You are successfully Logged-out ====
+00:54:32.955 [main] INFO  testCases.TC_002_LoginTest - ******* Finished TC_002_AccountLoginTest  *******
+00:54:37.514 [main] INFO  testCases.TC_004_SearchProductTest - *****  Starting TC_004_SearchProductTest *****
+00:54:38.364 [main] INFO  testCases.TC_004_SearchProductTest - *****  Finished TC_004_SearchProductTest *****
+00:54:42.868 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+00:58:44.486 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+01:15:58.763 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+01:16:01.189 [main] INFO  testCases.TC_005_AddToCartTest - *****  Finished TC_005_AddToCartTest *****
+01:19:55.556 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+01:23:45.023 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+01:28:11.631 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+01:30:07.624 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+01:31:56.321 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+01:33:50.852 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+01:34:32.784 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+01:37:04.929 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+01:37:07.493 [main] INFO  testCases.TC_005_AddToCartTest - *****  Finished TC_005_AddToCartTest *****
+01:40:56.758 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Starting TC_001_AccountRegistrationTest *****
+01:40:57.005 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked my account link =====
+01:40:57.613 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked register account link =====
+01:40:57.620 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Entering verify details...!! ====
+01:40:58.503 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked privacy policy =====
+01:40:59.420 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked continue button =====
+01:40:59.472 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Starting verifying confirmation message =====
+01:40:59.473 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Test passed..!! ====
+01:40:59.477 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Finished verified confirmation message =====
+01:40:59.477 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Ending TC_001_AccountRegistrationTest *****
+01:41:02.775 [main] INFO  testCases.TC_002_LoginTest - ******* Starting TC_002_AccountLoginTest  *******
+01:41:02.932 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked my account link =====
+01:41:03.249 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login account =====
+01:41:03.249 [main] INFO  testCases.TC_002_LoginTest - ===== Entering login details =====
+01:41:04.295 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login button =====
+01:41:04.355 [main] INFO  testCases.TC_002_LoginTest - ===== Starting veryfying login message =====
+01:41:04.356 [main] INFO  testCases.TC_002_LoginTest - ==== Congratulations..!! successfully Logged-in ====
+01:41:04.356 [main] INFO  testCases.TC_002_LoginTest - ===== Ended veryfied login message =====
+01:41:04.818 [main] INFO  testCases.TC_002_LoginTest - ===== Logged out from the application =====
+01:41:04.868 [main] INFO  testCases.TC_002_LoginTest - ===== Verified logged out message =====
+01:41:04.868 [main] INFO  testCases.TC_002_LoginTest - ==== You are successfully Logged-out ====
+01:41:04.868 [main] INFO  testCases.TC_002_LoginTest - ******* Finished TC_002_AccountLoginTest  *******
+01:41:08.029 [main] INFO  testCases.TC_004_SearchProductTest - *****  Starting TC_004_SearchProductTest *****
+01:41:08.683 [main] INFO  testCases.TC_004_SearchProductTest - *****  Finished TC_004_SearchProductTest *****
+01:41:11.753 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+01:41:13.747 [main] INFO  testCases.TC_005_AddToCartTest - *****  Finished TC_005_AddToCartTest *****
+10:10:47.496 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Starting TC_001_AccountRegistrationTest *****
+10:10:47.912 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked my account link =====
+10:10:49.076 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked register account link =====
+10:10:49.083 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Entering verify details...!! ====
+10:10:50.557 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked privacy policy =====
+10:10:52.581 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Clicked continue button =====
+10:10:52.686 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Starting verifying confirmation message =====
+10:10:52.687 [main] INFO  testCases.TC_001_AccountRegistrationTest - ==== Test passed..!! ====
+10:10:52.695 [main] INFO  testCases.TC_001_AccountRegistrationTest - ===== Finished verified confirmation message =====
+10:10:52.695 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****  Ending TC_001_AccountRegistrationTest *****
+10:10:58.987 [main] INFO  testCases.TC_002_LoginTest - ******* Starting TC_002_AccountLoginTest  *******
+10:10:59.275 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked my account link =====
+10:10:59.847 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login account =====
+10:10:59.848 [main] INFO  testCases.TC_002_LoginTest - ===== Entering login details =====
+10:11:02.474 [main] INFO  testCases.TC_002_LoginTest - ===== Clicked login button =====
+10:11:02.550 [main] INFO  testCases.TC_002_LoginTest - ===== Starting veryfying login message =====
+10:11:02.551 [main] INFO  testCases.TC_002_LoginTest - ==== Congratulations..!! successfully Logged-in ====
+10:11:02.551 [main] INFO  testCases.TC_002_LoginTest - ===== Ended veryfied login message =====
+10:11:04.546 [main] INFO  testCases.TC_002_LoginTest - ===== Logged out from the application =====
+10:11:04.649 [main] INFO  testCases.TC_002_LoginTest - ===== Verified logged out message =====
+10:11:04.651 [main] INFO  testCases.TC_002_LoginTest - ==== You are successfully Logged-out ====
+10:11:04.651 [main] INFO  testCases.TC_002_LoginTest - ******* Finished TC_002_AccountLoginTest  *******
+10:11:11.139 [main] INFO  testCases.TC_004_SearchProductTest - *****  Starting TC_004_SearchProductTest *****
+10:11:12.829 [main] INFO  testCases.TC_004_SearchProductTest - *****  Finished TC_004_SearchProductTest *****
+10:11:17.355 [main] INFO  testCases.TC_005_AddToCartTest - *****  Starting TC_005_AddToCartTest *****
+10:11:20.682 [main] INFO  testCases.TC_005_AddToCartTest - *****  Finished TC_005_AddToCartTest *****
